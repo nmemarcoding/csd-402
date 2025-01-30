@@ -172,3 +172,5 @@ cython_debug/
 
 # Ignore macOS system files
 .DS_Store
+#  ignore all class files
+*.class
