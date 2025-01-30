@@ -1,3 +1,5 @@
+// A class that models a fan with speed, on/off, radius, and color properties.
+
 public class Fan {
     // Constants
     public static final int STOPPED = 0;

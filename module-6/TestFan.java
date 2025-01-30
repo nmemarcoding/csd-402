@@ -1,3 +1,10 @@
+// Name: Nima Memarzadeh
+// Date: 01/30/2025
+// Assignment: Module 6 Programming Assignment
+
+// This program tests the Fan class by creating two instances  
+// of the Fan class and displaying their state.
+
 public class TestFan {
     public static void main(String[] args) {
         // Creating instances of the Fan class
