@@ -81,8 +81,8 @@ public class ArrayLocator {
 
     public static void main(String[] args) {
         
-        double[][] doubles = {{1.1, 2.2, 3.3}, {7.9, 4.4, 5.5, 6.6}};
-        int[][] ints = {{1,8 , 2, 3}, {4, 5, 6}};
+        double[][] doubles = {{1.1, 2.2, 3.3, 0.9}, {7.9, 4.4, 5.5, 6.6}};
+        int[][] ints = {{1, 8 , 2, 3}, {4, 10, 5, 6}};
         
         // Test the methods with double array
         int[] largestDoubleLocation = locateLargest(doubles);
