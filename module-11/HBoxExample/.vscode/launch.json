@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HBoxExample",
+            "request": "launch",
+            "mainClass": "HBoxExample",
+            "projectName": "HBoxExample_d6f5f0e5",
+            "vmArgs": "--module-path /Users/nimamemarzadeh/Desktop/believue/JAVA/csd-402/module-11/HBoxExample/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
