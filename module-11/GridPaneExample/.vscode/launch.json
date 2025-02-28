@@ -18,7 +18,7 @@
             "request": "launch",
             "mainClass": "GridPaneExample",
             "projectName": "GridPaneExample_53541bfa",
-            "vmArgs": "--module-path /Users/nimamemarzadeh/Desktop/believue/JAVA/csd-402/module-11/GridPaneExample/lib --add-modules javafx.controls,javafx.fxml"
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml"
         }
     ]
 }
