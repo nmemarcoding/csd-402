@@ -1,3 +1,5 @@
+//This class provides methods to calculate the cost of auto services.
+
 public class AutoService {
     // Constants for service charges
     private static final double STANDARD_SERVICE = 89.99;
